@@ -15,7 +15,7 @@ function App() {
   };
   const restarNumero = () => {
     if (numero === 0) {
-      const nuevoMensaje = "Será mejor espavilar";
+      const nuevoMensaje = "Será mejor espabilar";
       setMensaje(nuevoMensaje);
       return;
     }
